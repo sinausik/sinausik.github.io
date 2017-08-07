@@ -1,0 +1,26 @@
+=== Tulips ===
+Cretors: Rachmad S.B. / RCH TECHNOLOGY
+Version: 0.1
+License: RCHv16
+License URI: http://rchinfo.cf/
+
+== Description ==
+Tulips adalah website CV atau Curiculum Vitae, berfungsi memudahkan pengguna untuk digunakan sebagai data diri. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer. Nama Tulips dipakai karena saya menyukai bunga Tulips dan dalam penyebutan katanya dapat membuat orang tersenyum.
+
+* Responsive Layout :) make it something cool.
+
+== Disclaimer ==
+Website ini dibuat oleh Rachmad S.B. / RCH TECHNOLOGY dan sepenuhnya kontribusi waktu dan tenaga dalam pembuatan adalah proses pembelajaran.
+
+== Privacy & Policy ==
+Semua data pada Tulips adalah data pribadi, mohon untuk tidak menyalahgunakan data yang telah di publikasi ini.
+
+== Informasi Matkul ==
+Dosen: Pius Dian Widi Anggoro, S.Si., M.Cs.
+URL: http://ns.akakom.ac.id/~piusanggoro/
+Mata kuliah: Pemrograman Web Mobile
+Kelas: TI 9
+SKS: 3
+Ruang: U.2.3
+
+Terima kasih.
